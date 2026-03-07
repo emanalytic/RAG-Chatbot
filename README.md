@@ -1,4 +1,4 @@
-# Advanced PDF Intelligence RAG
+# MultiModal RAG
 A high-performance Retrieval-Augmented Generation (RAG) system specialized for deep document intelligence. This system transforms static PDF files into structured knowledge by analyzing document layouts, extracting complex tables, and using vision-based OCR to ensure the AI has the complete context for every answer.
 ## System Workflow
 
